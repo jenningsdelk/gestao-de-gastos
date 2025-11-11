@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Controle de Gastos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Controle de Gastos</h1>
+
+    <div class="saldo">
+      <h2>Saldo: <span id="saldo">R$ 0,00</span></h2>
+    </div>
+
+    <div class="transacoes">
+      <input type="text" id="descricao" placeholder="Descrição" />
+      <input type="number" id="valor" placeholder="Valor" />
+      <input type="date" id="data" />
+      <select id="tipo">
+        <option value="entrada">Entrada</option>
+        <option value="saida">Saída</option>
+      </select>
+      <button id="inserir">Inserir</button>
+    </div>
+
+    <div class="colunas">
+      <div class="coluna">
+        <h3>Entrada</h3>
+        <ul id="lista-entradas"></ul>
+      </div>
+
+      <div class="coluna">
+        <h3>Saída</h3>
+        <ul id="lista-saidas"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
