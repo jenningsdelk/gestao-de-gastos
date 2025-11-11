@@ -22,3 +22,28 @@ Registra **entradas e saídas**, visualizar o **saldo**.
 - **JavaScript** → Lógica e manipulação dos dados  
 
 ---
+
+## Estruturas de Pastas
+```
+gestao-de-gastos/
+│
+├── index.html
+├── style.css
+├── scrypt.js
+└── README.md
+```
+
+## 🚀 Publicação no GitHub Pages  
+
+[https://jenningsdelk.github.io/barco-hotel/](https://jenningsdelk.github.io/barco-hotel/)
+
+---
+
+## 👨‍💻 Desenvolvido por
+**Jennings Delk | Analista e Desenvolvedor de Sistemas**  
+📧 jenningsdelk@hotmail.com
+🌐 [GitHub](https://github.com/jenningsdelk)
+
+---
+
+⭐ *Se gostou do projeto, marque com uma estrela no GitHub!*  
