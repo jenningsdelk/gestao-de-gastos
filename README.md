@@ -35,7 +35,7 @@ gestao-de-gastos/
 
 ## 🚀 Publicação no GitHub Pages  
 
-[[https://jenningsdelk.github.io/gestao-de-gastos/](https://jenningsdelk.github.io/gestao-de-gastos/)
+[Acessa o Projeto clicando no link}[https://jenningsdelk.github.io/gestao-de-gastos/](https://jenningsdelk.github.io/gestao-de-gastos/)
 
 ---
 
@@ -47,4 +47,5 @@ gestao-de-gastos/
 ---
 
 ⭐ *Se gostou do projeto, marque com uma estrela no GitHub!*  
+
 
