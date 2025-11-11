@@ -35,7 +35,7 @@ gestao-de-gastos/
 
 ## 🚀 Publicação no GitHub Pages  
 
-[https://jenningsdelk.github.io/barco-hotel/](https://jenningsdelk.github.io/barco-hotel/)
+[[https://jenningsdelk.github.io/gestao-de-gastos/](https://jenningsdelk.github.io/gestao-de-gastos/)
 
 ---
 
@@ -47,3 +47,4 @@ gestao-de-gastos/
 ---
 
 ⭐ *Se gostou do projeto, marque com uma estrela no GitHub!*  
+
